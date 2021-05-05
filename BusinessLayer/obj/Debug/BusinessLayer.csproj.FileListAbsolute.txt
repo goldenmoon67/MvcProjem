@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilk_mvc_projem\BusinessLayer\bin\Debug\BusinessLayer.dll.config

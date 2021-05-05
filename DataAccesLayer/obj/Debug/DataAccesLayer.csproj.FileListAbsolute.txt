@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\EntityLayer.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\obj\Debug\DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\obj\Debug\DataAccesLayer.Migrations.mig1.resources
+C:\Users\HP\Desktop\YAZILIM\Mvc\ilkMVCprojem\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.GenerateResource.cache
